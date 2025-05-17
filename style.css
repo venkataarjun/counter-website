@@ -1,0 +1,25 @@
+#counterLabel {
+    font-family: helvetica;
+    font-size: 8em;
+    display: block;
+    text-align: center;
+}
+
+#btnContainer {
+    text-align: center;
+}
+
+.buttons {
+    padding: 10px 20px;
+    background-color: rgb(163, 163, 243);
+    border-radius: 5px;
+    color: rgb(241, 247, 247);
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover {
+    background-color: rgb(113, 113, 242);
+}
+
